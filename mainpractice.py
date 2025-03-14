@@ -36,3 +36,10 @@ else:
     print ("Good Morning")
 
 
+# practice using List and other functions
+
+Questions =[["Which language was used to create Instagram?", "python","javascript", "Ruby", "php", "None", 4],
+            ["Which language was used to create Instagram?", "python","javascript", "Ruby", "php", "None", 4],
+            ["Which language was used to create Instagram?", "python","javascript", "Ruby", "php", "None", 4],]
+
+levels = [1000, 2000, 3000, 4000, 5000, 10000, 20000, 40000, 80000, 160000, 320000]
