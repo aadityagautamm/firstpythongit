@@ -125,7 +125,6 @@ def decode(encoded_message):
     
     return ' '.join(decoded_words)
 
-# Example usage
 if __name__ == "__main__":
     original_message = "Hello world this is a test"
     encoded_message = encode(original_message)
